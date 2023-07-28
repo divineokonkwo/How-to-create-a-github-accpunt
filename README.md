@@ -1,1 +1,1 @@
-# How-to-create-a-github-accpunt
+# How-to-create-a-github-account
